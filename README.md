@@ -1,4 +1,4 @@
-# 🚌 Bus Booking System (Java)
+# 🚌 Bus-Booking-System-Java-OOP-Collections
 
 ## 📌 Overview
 This is a simple **Bus Booking System** built using **Java**.  
@@ -15,7 +15,9 @@ The project demonstrates:
 ## 📂 Project Structure
 
 ├── Bus.java # Defines Bus details (bus no, AC/non-AC, capacity)
+
 ├── Booking.java # Handles booking info (passenger, bus, date)
+
 ├── BusDemo.java # Main driver program
 
 
